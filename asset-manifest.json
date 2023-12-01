@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Function-to-Class-using-props-in-react/static/css/main.073c9b0a.css",
+    "main.js": "/Function-to-Class-using-props-in-react/static/js/main.2cf9744c.js",
+    "static/js/787.a5a00b74.chunk.js": "/Function-to-Class-using-props-in-react/static/js/787.a5a00b74.chunk.js",
+    "index.html": "/Function-to-Class-using-props-in-react/index.html",
+    "main.073c9b0a.css.map": "/Function-to-Class-using-props-in-react/static/css/main.073c9b0a.css.map",
+    "main.2cf9744c.js.map": "/Function-to-Class-using-props-in-react/static/js/main.2cf9744c.js.map",
+    "787.a5a00b74.chunk.js.map": "/Function-to-Class-using-props-in-react/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2cf9744c.js"
+  ]
+}
